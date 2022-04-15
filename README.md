@@ -6,7 +6,7 @@
 ## :mag: Observações:
 
 Nossa equipe inicialmente era composta de três UX e quatro Desenvolvedores, porém houve desistência de um desenvolvedor, que possuía mais conhecimento do back-end. 
-Iniciamos o projeto desenvolvendo o back-end aprendendo juntamente deste desenvolvedor, porém com a saída do mesmo foi necessário abortar o back-end do projeto, pois até o momento ainda não possuímos conhecimento suficiente para aplicá-lo. Desta forma, nosso projeto conta com interface e algumas funcionalidades desenvolvidas no front-end.
+Iniciamos o projeto desenvolvendo o back-end aprendendo juntamente deste desenvolvedor, porém com a saída do mesmo foi necessário descontinuar o back-end do projeto, pois até o momento ainda não possuímos conhecimento suficiente para aplicá-lo. Desta forma, nosso projeto conta com interface e algumas funcionalidades desenvolvidas no front-end.
 
 
 Repositório principal do nosso projeto: https://github.com/squad-18/technical-share-front-end.
